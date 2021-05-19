@@ -164,6 +164,8 @@ textarea {
   appearance: none;
 }
 
+
+
 /* Basic */
 
 @-ms-viewport {
@@ -2716,6 +2718,8 @@ a.icon.style2:active:before {
   box-shadow: inset 0 0 0 2px var(--main-accent-color);
   color: var(--main-accent-color);
 }
+
+
 
 /* Image */
 
